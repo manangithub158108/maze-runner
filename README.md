@@ -1,2 +1,2 @@
-# maze-runner
-just have a look at it 
+# p5.play-boilerplate
+Boiler plate for p5.play
